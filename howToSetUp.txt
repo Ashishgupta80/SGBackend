@@ -1,0 +1,13 @@
+1)Open the terminal
+2)Move to the root directory of the project.
+3)Run the command `npm install` to install all the dependencies.
+4)Run the command `npm start` to start the development server.
+
+echo "# SGBackend" >> README.md
+git init
+git add README.md
+git add .
+git commit -m "initial commit"
+git branch -M master
+git remote add origin https://github.com/Ashishgupta80/SGBackend.git
+git push -u origin master
